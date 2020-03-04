@@ -26,6 +26,9 @@ grunt
 ```
 
 ### Changelog
+**v1.0.6**
+- Added configurable options. Allows disabling of each size/alignment, and to define a default (Thanks to Tom Pipe)
+
 **v1.0.5**
 - Added support for usage outside the grid, as a standard property editor (Thanks to Tom Pipe)
 
